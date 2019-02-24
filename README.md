@@ -1,4 +1,5 @@
 #DynamicMapIndexer
+
 Hello all! So I was recently working on a port for a popular game mode that utilizes a large number of custom positions 
 related to static structures on the map. I got tired of manually placing the the markers, so instead I created something
 to do it for me! This script goes through the map you're on, and it creates dynamically named markers at the location of 
