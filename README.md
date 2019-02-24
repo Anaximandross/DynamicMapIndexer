@@ -4,12 +4,13 @@ Hello all! So I was recently working on a port for a popular game mode that util
 related to static structures on the map. I got tired of manually placing the the markers, so instead I created something
 to do it for me! This script goes through the map you're on, and it creates dynamically named markers at the location of 
 the desired buildings. Currently, I have the script configured to mark:  
+
 -Radio Towers  
 -Certain Military Buildings  
 -Industrial Facilities 
-
 -Certain Port components  
 -Airfields    
+
 Once the building is created, the script will create a marker at the location of the building. This marker is then stored 
 in an array with a relevant title (_factoryArray, _militaryBaseArray, _portArray, _radioArray, and _airfieldArray. These 
 arrays are stored as _markername_position.This script is very easily configurable to search for whichever building you want 
