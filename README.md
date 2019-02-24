@@ -7,6 +7,7 @@ the desired buildings. Currently, I have the script configured to mark:
 -Radio Towers  
 -Certain Military Buildings  
 -Industrial Facilities 
+
 -Certain Port components  
 -Airfields    
 Once the building is created, the script will create a marker at the location of the building. This marker is then stored 
