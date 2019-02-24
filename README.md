@@ -1,4 +1,4 @@
-#DynamicMapIndexer
+#DynamicStructureIndexer
 
 Hello all! So I was recently working on a port for a popular game mode that utilizes a large number of custom positions 
 related to static structures on the map. I got tired of manually placing the the markers, so instead I created something
